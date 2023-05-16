@@ -11,7 +11,7 @@
 
 
 
-// !ÖDEV : 1-10 arasında Rastgele seçilen bir sayıyı kullanıcının bulmasını isteyen program
+// !ÖDEV2 : 1-10 arasında Rastgele seçilen bir sayıyı kullanıcının bulmasını isteyen program
 
 let random=Math.ceil(Math.random()*10);
 let num=+prompt("1-10 arasinda bir sayi giriniz:")
